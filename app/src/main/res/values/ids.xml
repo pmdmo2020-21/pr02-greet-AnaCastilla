@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="swtPremium" type="id"></item>
+    <item name="lblName" type="id" />
+    <item name="edtName" type="id" />
+    <item name="lblSurname" type="id" />
+    <item name="edtSurname" type="id" />
+    <item name="lblTreat" type="id" />
+    <item name="rdgGender" type="id" />
+    <item name="rdbMr" type="id" />
+    <item name="rdbMrs" type="id" />
+    <item name="rdbMs" type="id" />
+    <item name="imgGender" type="id" />
+    <item name="chkPolitely" type="id" />
+    <item name="btnGreet" type="id" />
+    <item name="prBar" type="id" />
+    <item name="lblPrBar" type="id" />
+    <item name="lblGreetResult" type="id" />
+</resources>

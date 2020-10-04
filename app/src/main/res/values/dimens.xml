@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <dimen name="marginPremium">12dp</dimen>
+    <dimen name="marginLeft">12dp</dimen>
+    <dimen name="marginRight">12dp</dimen>
+    <dimen name="marginTop">12dp</dimen>
+    <dimen name="sizeGreet">30sp</dimen>
 </resources>
