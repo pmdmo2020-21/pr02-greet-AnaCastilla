@@ -112,6 +112,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/marginLeft"
         android:layout_marginRight="@dimen/marginRight"
+        android:max="9"
         android:layout_marginTop="@dimen/marginTop"/>
 
     <TextView
@@ -130,6 +131,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/marginLeft"
+        android:layout_margin="@dimen/marginRight"
         android:layout_marginTop="@dimen/marginTop"/>
 
 
